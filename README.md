@@ -8,11 +8,12 @@
 </div>
 
 - 🌱 I’m currently learning **React.Js, Typescript, Next.Js**
+- 
+<h3 align="center">📫 How to reach me </h3>
+<div align="center">  
+  <a href="mailto:whoisjerzy@icloud.com" target="blank"><img src="https://img.shields.io/badge/Icloud-gray?style=for-the-badge&logo=apple&logoColor=white" alt="Icloud Badge"/></a>    
+</div>
 
-- 📫 How to reach me **whoisjerzy@icloud.com**
-  <div align="center">  
-    <a href="mailto:whoisjerzy@icloud.com" target="blank"><img src="https://img.shields.io/badge/Icloud-gray?style=for-the-badge&logo=apple&logoColor=white" alt="Icloud Badge"/></a>    
-  </div>
 
 
 
