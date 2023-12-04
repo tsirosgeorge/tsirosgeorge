@@ -10,6 +10,9 @@
 - 🌱 I’m currently learning **React.Js, Typescript, Next.Js**
 
 - 📫 How to reach me **whoisjerzy@icloud.com**
+  <div align="center">  
+    <a href="mailto:whoisjerzy@icloud.com" target="blank"><img src="https://img.shields.io/badge/Icloud-white?style=for-the-badge&logo=Icloud&logoColor=white" alt="Icloud Badge"/></a>    
+  </div>
 
 
 
