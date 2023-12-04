@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Greece</h3>
 
 <h3 align="center">Connect with me:</h3>
-<div id="badges">  
+<div id="badges" align="center">  
   <a href="https://instagram.com/whoisjerzy" target="blank"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="https://twitter.com/whoisjerzy" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
