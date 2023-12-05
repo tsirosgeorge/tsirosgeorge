@@ -10,6 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=whoisjerzy&style=flat-square&color=blue" alt=""/>
 </div>
 
+***
+___
+--- 
+
 - 🌱 I’m currently learning **React.Js, Typescript, Next.Js**
   
 <h3 align="center">📫 How to reach me </h3>
