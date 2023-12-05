@@ -8,7 +8,7 @@
   <a href="mailto:whoisjerzy@icloud.com" target="blank"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=apple&logoColor=black" alt="Apple Badge"/></a>
 </div>
 <div align="center">  
-  <img src="https://komarev.com/ghpvc/?username=whoisjerzy&style=flat-square&color=00a8ff" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=whoisjerzy&style=for-the-badge&color=00a8ff" alt=""/>
 </div>
 
 ***
