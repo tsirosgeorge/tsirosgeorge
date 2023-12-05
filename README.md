@@ -19,6 +19,9 @@
 <div align="center">  
   <span style="background-color:#b2bec3" color:white;><a href="mailto:whoisjerzy@icloud.com" target="blank" style="text-decoration:none!important">📥</a></span>
 </div>
+<div style="width: 100%;">
+  <img src="whoisjerzy.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 
 
