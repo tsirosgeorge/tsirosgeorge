@@ -5,7 +5,7 @@
 <div id="badges" align="center">  
   <a href="https://instagram.com/whoisjerzy" target="blank"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="https://twitter.com/whoisjerzy" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://twitter.com/whoisjerzy" target="blank"><img src="https://img.shields.io/badge/Apple-white?style=for-the-badge&logo=apple&logoColor=black" alt="Twitter Badge"/></a>
+  <a href="mailto:whoisjerzy@icloud.com" target="blank"><img src="https://img.shields.io/badge/Apple-white?style=for-the-badge&logo=apple&logoColor=black" alt="Apple Badge"/>📥</a>
 </div>
 <div align="center">  
   <img src="https://komarev.com/ghpvc/?username=whoisjerzy&style=flat-square&color=blue" alt=""/>
@@ -17,9 +17,7 @@
 - 🌱 I’m currently learning **React.Js, Typescript, Next.Js**
   
 <h3 align="center">📫 How to reach me </h3>
-<div align="center">  
-  <span style="background-color:#b2bec3" color:white;><a href="mailto:whoisjerzy@icloud.com" target="blank" style="text-decoration:none!important">📥</a></span>
-</div>
+
 
 
 
