@@ -11,8 +11,7 @@
 </div>
 
 ***
-___
---- 
+
 
 - 🌱 I’m currently learning **React.Js, Typescript, Next.Js**
   
