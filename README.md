@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React.Js, Typescript, Next.Js**
   
-<h3 align="center">📫 How to reach me </h3>
+
 
 
 
