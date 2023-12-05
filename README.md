@@ -14,7 +14,7 @@
   
 <h3 align="center">📫 How to reach me </h3>
 <div align="center">  
-  <a href="mailto:whoisjerzy@icloud.com" target="blank" style="text-decoration:none">📥</a>    
+  <a href="mailto:whoisjerzy@icloud.com" target="blank" style="text-decoration:none!important">📥</a>    
 </div>
 
 
