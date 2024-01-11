@@ -14,7 +14,7 @@
 ***
 
 
-<h4 align="center"> 🌱 I’m currently learning **React.Js, Typescript, Next.Js**</h4>
+<h4 align="center"> 🌱 I’m currently learning **React.Js, Typescript, Node.Js**</h4>
   
 ***
 
