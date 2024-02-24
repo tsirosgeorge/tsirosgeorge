@@ -1,5 +1,7 @@
 <h1 align="center">Hi   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Jerzy</h1>
-<h3 align="center">A passionate frontend developer from Greece</h3>
+<h3 align="center">I'm George Tsiros, a versatile front-end developer from Greece with a passion for coding.<br /><br />
+                    My journey began at university, where I immersed myself in front-end technologies, laying the groundwork for my expertise. Over the past 4 years, I've honed my skills with React and started expanding into back-end development.<br /><br />
+                    Beyond coding, I'm a music lover who finds inspiration in melodies, bringing creativity to digital experiences. With a commitment to innovation and continuous learning, I integrate seamlessly into any team, delivering impactful solutions to user interfaces.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <div id="badges" align="center">  
