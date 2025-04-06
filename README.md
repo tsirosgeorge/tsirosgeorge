@@ -3,10 +3,10 @@
 
 <h3 align="center">🚀 About Me</h3>
 <p align="center">
-    My journey began at university, where I immersed myself in front-end technologies, building a strong foundation in web development. Over the past four years, I’ve specialized in <strong>plain PHP</strong> for back-end development and recently expanded my skills to include <strong>React</strong> and <strong>Vue</strong> for dynamic, responsive front-end interfaces. I’m currently expanding my full-stack expertise with the <strong>MEVN</strong> and <strong>MERN</strong> stacks using <strong>MySQL</strong>.
+    My journey began at university, where I immersed myself in front-end technologies, building a strong foundation in web development. Over the past four years, I’ve specialized in <strong>plain PHP</strong> for back-end development and recently expanded my skills to include <strong>React</strong> and <strong>Vue</strong> for dynamic, responsive front-end interfaces.
 </p>
 
-<h4 align="center">🌱 I’m currently building SaaS applications with MERN & MEVN Stack</h4>
+<h4 align="center">🌱 I’m currently building SaaS applications</h4>
 
 <h3 align="center">🎶 Beyond the Code</h3>
 <p align="center">
@@ -27,5 +27,5 @@
 <div align="center"> 
 <h3 align="center">Languages and Tools:</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,html,js,react,vue,mysql,ps,tailwind,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,bootstrap,css,html,js,mysql,ps,tailwind,vscode)](https://skillicons.dev)
 </div>
