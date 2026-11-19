@@ -16,5 +16,5 @@
 <div align="center"> 
 <h3 align="center">Languages and Tools:</h3>
 
-  [![My Skills](https://skillicons.dev/icons?i=php,bootstrap,css,html,js,mysql,ps,tailwind,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,bootstrap,css,html,js,mysql,tailwind,vscode)](https://skillicons.dev)
 </div>
