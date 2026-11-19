@@ -2,7 +2,9 @@
 
 <div style="display:flex; gap: 10px;">
   <div id="badges" align="center">  
-    <a href="https://twitter.com/saintjerzy" target="blank"><img src="https://img.shields.io/badge/Twitter-00a8ff?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>  
+    <a href="https://x.com/saintjerzy" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+    </a>
   </div>
   <div align="center">  
     <img src="https://komarev.com/ghpvc/?username=whoisjerzy&style=for-the-badge&color=00a8ff" alt=""/>
