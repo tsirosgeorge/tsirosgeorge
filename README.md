@@ -1,5 +1,4 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm George Tsiros</h1>
-<h3 align="center">I'm George Tsiros, a versatile full-stack developer from Greece with a passion for coding.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <div id="badges" align="center">  
