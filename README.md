@@ -3,8 +3,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div id="badges" align="center">  
-  <a href="https://twitter.com/tsirxs" target="blank"><img src="https://img.shields.io/badge/Twitter-00a8ff?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="mailto:tsirosgeorge@pm.me" target="blank"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=apple&logoColor=black" alt="Apple Badge"/></a>
+  <a href="https://twitter.com/tsirxs" target="blank"><img src="https://img.shields.io/badge/Twitter-00a8ff?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>  
 </div>
 <div align="center">  
   <img src="https://komarev.com/ghpvc/?username=whoisjerzy&style=for-the-badge&color=00a8ff" alt=""/>
